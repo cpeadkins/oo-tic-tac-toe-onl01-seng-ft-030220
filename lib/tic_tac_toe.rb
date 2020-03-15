@@ -93,8 +93,6 @@ class TicTacToe
   end
 
 
-
-
 end
 
 # 0 1 2
